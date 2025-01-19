@@ -1,0 +1,17 @@
+selenium
+praw
+python-dotenv
+youtube-transcript-api
+google-generativeai
+cassandra-driver
+beautifulsoup4
+requests
+webdriver-manager
+serpapi
+google-search-results
+flask
+transformers
+wordcloud
+torch
+torchvision
+torchaudio
